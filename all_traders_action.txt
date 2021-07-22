@@ -1,0 +1,1392 @@
+[32;1m=========count:0===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.17245601889977547, 0.32087630270899536] 
+ buyers_type: [0.9, 1] 
+ buyers_action: [0.64603609688371288, 0.58991488866996233] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.3970014348944814, 0.5949982918172874] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.6975991973539004, 0.6132260935170466]
+[32;1m=========count:0===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.2, 0] 
+ sellers_action: [0.33227015653914005, 0.6721262102659652] 
+ buyers_type: [0.9, 1] 
+ buyers_action: [0.64049762510490937, 0.61879487616108497] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.3781998976032375, 0.6003698386147938] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.6980717561279427, 0.6212804227504346]
+[32;1m=========count:10===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.69237051352048851, 0.49632039092396429] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.2, 0.1, 0.3, 0] 
+ sellers_action: [0.24529764583262265, 0.3894438723751526, 0.4265093267902993, 0.927984965328827] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.691906854526391, 0.6740154478328193]
+[32;1m=========count:20===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.82222887343316886, 0.66612893013722441] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.1, 0, 0.2, 0.3] 
+ sellers_action: [0.1855016992745278, 0.2798992228516452, 0.3070185558860324, 0.5250313330623139] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.5122135567985243, 0.47765973662334227]
+[32;1m=========count:30===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.3, 0] 
+ sellers_action: [0.35399063717352475, 0.6381303156236817] 
+ buyers_type: [0.7] 
+ buyers_action: [0.69987173029674632] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.1, 0.2] 
+ sellers_action: [0.3355771488633594, 0.4851160482354681] 
+ buyers_type: [0.8, 1, 0.9] 
+ buyers_action: [0.6741550507405047, 0.6086274022005723, 0.30419625524722854]
+[32;1m=========count:40===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.1, 0, 0.3] 
+ sellers_action: [0.4004471370816128, 0.452158658920038, 0.8725785458309985] 
+ buyers_type: [0.9] 
+ buyers_action: [0.45343348756411767] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.2572349015608703] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.8239558090028276, 0.6760294019611177, 0.19150876472918632]
+[32;1m=========count:50===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.03158760586300058, 0.40130931639772044] 
+ buyers_type: [1, 0.8] 
+ buyers_action: [0.83492860548456949, 0.71637156717331418] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.4730247796732882, 0.5831918879295197] 
+ buyers_type: [0.9, 0.7] 
+ buyers_action: [0.7285244478249476, 0.666345572613591]
+[32;1m=========count:60===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.18329768388972045, 0.30174370219704305, 0.5799645306000274] 
+ buyers_type: [1, 0.8] 
+ buyers_action: [0.57983582269175993, 0.52042676565029622] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.28971664146872744] 
+ buyers_type: [0.9, 0.7] 
+ buyers_action: [0.7189449472272036, 0.6503965598981383]
+[32;1m=========count:70===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.2, 0.3, 0.1] 
+ sellers_action: [0.2768333705819533, 0.30585366055962937, 0.4354838292286833] 
+ buyers_type: [] 
+ buyers_action: [] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0] 
+ sellers_action: [0.48259119595878913] 
+ buyers_type: [0.9, 1, 0.7, 0.8] 
+ buyers_action: [0.8400785436817835, 0.748488354506561, 0.6812472466969259, 0.6191160147855337]
+[32;1m=========count:80===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.3, 0, 0.2] 
+ sellers_action: [0.3241969488578546, 0.34224268128201357, 0.5265909347025501] 
+ buyers_type: [0.9] 
+ buyers_action: [0.7261125223722068] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.44399629746965347] 
+ buyers_type: [0.7, 1, 0.8] 
+ buyers_action: [0.6871952602084053, 0.5299837467808028, 0.49710270728955186]
+[32;1m=========count:90===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0, 0.1] 
+ sellers_action: [0.018114238591195986, 0.19837137154141055] 
+ buyers_type: [0.8, 0.9, 0.7] 
+ buyers_action: [0.64788243658252498, 0.60895136444636877, 0.33816301867686177] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.2, 0.3] 
+ sellers_action: [0.32303341914950867, 0.43912355155456506] 
+ buyers_type: [1] 
+ buyers_action: [0.6814876146880076]
+[32;1m=========count:100===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.1, 0.3, 0.2] 
+ sellers_action: [0.10701127160260404, 0.35677237688533525, 0.5055888142261209] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.87010841002549144, 0.062088006401983531] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0] 
+ sellers_action: [0.5628571128645411] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.7049033028047623, 0.5232689167436732]
+[32;1m=========count:110===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.3] 
+ sellers_action: [0.34079524925282667] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.87391999497217054, 0.51217361563245833, 0.50531948634377888] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1, 0.2, 0] 
+ sellers_action: [0.4156999098185491, 0.4547514986638642, 0.5551728501324668] 
+ buyers_type: [0.9] 
+ buyers_action: [0.7185194901060944]
+[32;1m=========count:120===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0, 0.1, 0.3] 
+ sellers_action: [0.2796400129214911, 0.3401371760118568, 0.362617896610215] 
+ buyers_type: [1] 
+ buyers_action: [0.83822686539918545] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.2718986980782128] 
+ buyers_type: [0.7, 0.9, 0.8] 
+ buyers_action: [0.6995288519916554, 0.6298772435225825, 0.5597512405776471]
+[32;1m=========count:130===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.2, 0.1] 
+ sellers_action: [0.3514959469737366, 0.49907212521554184] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.66064256957507039, 0.47420426549036254] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.24105957754278984, 0.4573685595343439] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.6291376615932269, 0.5990015302283639]
+[32;1m=========count:140===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.2, 0.3, 0] 
+ sellers_action: [0.24947389491089117, 0.31967965946189303, 0.4272968697174656] 
+ buyers_type: [] 
+ buyers_action: [] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.12456932917409352] 
+ buyers_type: [1, 0.7, 0.9, 0.8] 
+ buyers_action: [0.9000049216054339, 0.6727095457665702, 0.6570947372848045, 0.5537830042983111]
+[32;1m=========count:0===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.1752226708148088, 0.33814443785178344] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.61709049935798477, 0.16720087958027574] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.4127929409970429, 0.941801434657759] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.6981658987021829, 0.6131616039688782]
+[32;1m=========count:10===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.7, 1] 
+ buyers_action: [0.49772598746518099, 0.18165334398442989] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.2, 0.1, 0.3, 0] 
+ sellers_action: [0.2456041005208442, 0.38999440988637857, 0.4261062428171766, 0.5272911784038607] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.6931716456383585, 0.6736210587156977]
+[32;1m=========count:20===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.82226684043224685, 0.66616227763443858] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.1, 0, 0.2, 0.3] 
+ sellers_action: [0.1820235322589311, 0.2677210012803079, 0.3027315871734808, 0.5251194877969875] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.512179690268421, 0.009846441549341944]
+[32;1m=========count:30===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.12742144238978464, 0.3534300144953005] 
+ buyers_type: [0.7] 
+ buyers_action: [0.69987390984132714] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.1, 0.2] 
+ sellers_action: [0.32813558686769495, 0.48597606389921316] 
+ buyers_type: [0.9, 0.8, 1] 
+ buyers_action: [0.7452533683092961, 0.6746650201909214, 0.5996983068662467]
+[32;1m=========count:40===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.3, 0.1, 0] 
+ sellers_action: [0.3995229446003904, 0.40063568051959925, 0.45209993047302255] 
+ buyers_type: [0.9] 
+ buyers_action: [0.45370165142579705] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.630571741627584] 
+ buyers_type: [1, 0.7, 0.8] 
+ buyers_action: [0.8241330449960058, 0.6404420335563922, 0.2941955271229441]
+[32;1m=========count:50===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.03135586023042941, 0.40938306462850005] 
+ buyers_type: [1, 0.8] 
+ buyers_action: [0.83259660706220784, 0.72046926599103633] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.5121394273619547, 0.5814479696614212] 
+ buyers_type: [0.9, 0.7] 
+ buyers_action: [0.7292784781381771, 0.6619706866068776]
+[32;1m=========count:60===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.18337825318409828, 0.43389720218260613, 0.5799759952285687] 
+ buyers_type: [1, 0.8] 
+ buyers_action: [0.58003251288538604, 0.52079439028242513] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.2912420176684072] 
+ buyers_type: [0.9, 0.7] 
+ buyers_action: [0.7195902653628531, 0.6499988738137752]
+[32;1m=========count:70===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.2, 0.3, 0.1] 
+ sellers_action: [0.2767813115224937, 0.30584496819705953, 0.43541864708979294] 
+ buyers_type: [] 
+ buyers_action: [] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0] 
+ sellers_action: [0.48278852122644766] 
+ buyers_type: [0.9, 1, 0.7, 0.8] 
+ buyers_action: [0.8401079025648717, 0.7485508576855391, 0.681516884786623, 0.6192066883762279]
+[32;1m=========count:80===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.3, 0, 0.2] 
+ sellers_action: [0.32418969059798464, 0.34511701896105945, 0.5271525048352359] 
+ buyers_type: [0.9] 
+ buyers_action: [0.72620966511843854] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.4438941861906655] 
+ buyers_type: [0.7, 1, 0.8] 
+ buyers_action: [0.6874450257160428, 0.5126796525055016, 0.4974068650316545]
+[32;1m=========count:90===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.1, 0] 
+ sellers_action: [0.1974678339461891, 0.5356452886312758] 
+ buyers_type: [0.7, 0.9, 0.8] 
+ buyers_action: [0.65065377050327189, 0.62747006445284192, 0.24772607690369455] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.2, 0.3] 
+ sellers_action: [0.34055329958078584, 0.43820934877692963] 
+ buyers_type: [1] 
+ buyers_action: [0.7039670492134859]
+[32;1m=========count:100===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.1, 0.3, 0.2] 
+ sellers_action: [0.10716175638232683, 0.3567507969903672, 0.4801278909325214] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.87593727316605885, 0.46312162520587286] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0] 
+ sellers_action: [0.5631172230028693] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.707401804748677, 0.5212756874009553]
+[32;1m=========count:110===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.3] 
+ sellers_action: [0.3423104327668418] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.87674414640246789, 0.50907971790181705, 0.50748581539946636] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1, 0.2, 0] 
+ sellers_action: [0.4104641364997444, 0.44807153270374733, 0.5470660920346344] 
+ buyers_type: [0.9] 
+ buyers_action: [0.7172450816503886]
+[32;1m=========count:120===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0, 0.1, 0.3] 
+ sellers_action: [0.27967940179387546, 0.3401039834059394, 0.36268586941312775] 
+ buyers_type: [1] 
+ buyers_action: [0.83831267921348485] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.27186412858255404] 
+ buyers_type: [0.7, 0.9, 0.8] 
+ buyers_action: [0.6995284542862834, 0.6294339479233162, 0.5594950169521115]
+[32;1m=========count:130===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.2, 0.1] 
+ sellers_action: [0.34478867787739714, 0.4990259825525649] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.66021226664846755, 0.47385593206393989] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.24127820848129622, 0.4575534402326048] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.629018862933937, 0.6042398747619165]
+[32;1m=========count:140===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.2, 0.3, 0] 
+ sellers_action: [0.2557094033366643, 0.3198503918947672, 0.4276442266839421] 
+ buyers_type: [] 
+ buyers_action: [] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.1245634516511806] 
+ buyers_type: [0.7, 0.9, 0.8, 1] 
+ buyers_action: [0.6641803028166152, 0.6488367695645993, 0.5574540001559242, 0.38123411336356916]
+[32;1m=========count:0===========[0m
+
+ [31;1m total_number of choosing market1: 1 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.9] 
+ buyers_action: [0.89709866378607739] 
+ [31;1m total_number of choosing market2: 7 [0m
+ sellers_type: [0.2, 0, 0.1, 0.3] 
+ sellers_action: [0.2494323868506173, 0.29765698368908067, 0.49080216513858244, 0.8931644324746376] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.9237448641610773, 0.7945167234892382, 0.5381264124717543]
+[32;1m=========count:10===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.19140998009199947, 0.42549552945918945] 
+ buyers_type: [0.7] 
+ buyers_action: [0.52459161041912516] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.2, 0] 
+ sellers_action: [0.25066342825798027, 0.42343065490858006] 
+ buyers_type: [0.8, 1, 0.9] 
+ buyers_action: [0.7380737860360451, 0.6777326600172373, 0.6318136317849767]
+[32;1m=========count:20===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.3834241953753133] 
+ buyers_type: [0.8, 0.9] 
+ buyers_action: [0.60137410043262551, 0.54929164816371934] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.013651119719330862, 0.364017886826993, 0.8117117255482558] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.8425695481063883, 0.5108370052461799]
+[32;1m=========count:30===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.3, 0.1] 
+ sellers_action: [0.36047944134114385, 0.4234563592926681] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.66064758141518443, 0.59116058247270697] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.43249567661430166, 0.9734070136306759] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.6902694050255509, 0.5036109302758649]
+[32;1m=========count:40===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.4609847821284151] 
+ buyers_type: [1] 
+ buyers_action: [0.87527638549367248] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.1, 0, 0.3] 
+ sellers_action: [0.2182817068061983, 0.416030345752421, 0.4645281442336754] 
+ buyers_type: [0.8, 0.7, 0.9] 
+ buyers_action: [0.7463483367342199, 0.6918107907978345, 0.5991132995213804]
+[32;1m=========count:50===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0] 
+ sellers_action: [0.3623033013390679] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.57191089440173426, 0.43903081099551006] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.1, 0.3, 0.2] 
+ sellers_action: [0.3598986598134176, 0.47945915105466064, 0.6808513847377468] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.9274290291073592, 0.6760375689534655]
+[32;1m=========count:60===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0] 
+ sellers_action: [0.02859463166564946] 
+ buyers_type: [0.8, 0.7, 1, 0.9] 
+ buyers_action: [0.79306829245238264, 0.65618878751154286, 0.41175794666330562, 0.3848542970051777] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.1, 0.2, 0.3] 
+ sellers_action: [0.22738876583449733, 0.34898928421835435, 0.5460165899367788] 
+ buyers_type: [] 
+ buyers_action: []
+[32;1m=========count:70===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.2, 0.3] 
+ sellers_action: [0.37003987640975006, 0.375371053781007] 
+ buyers_type: [1] 
+ buyers_action: [0.018803212123386814] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.1] 
+ sellers_action: [0.3004747214990679, 0.39287284177008236] 
+ buyers_type: [0.7, 0.9, 0.8] 
+ buyers_action: [0.5713420206366044, 0.5372134338270548, 0.3967121909861126]
+[32;1m=========count:80===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.8, 1] 
+ buyers_action: [0.62543359054845582, 0.5387359601757179] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.2, 0.1, 0.3, 0] 
+ sellers_action: [0.2267482016815704, 0.41897078362215484, 0.6200757286965233, 0.6883516691014585] 
+ buyers_type: [0.9, 0.7] 
+ buyers_action: [0.7166975250902238, 0.5220778708923247]
+[32;1m=========count:90===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.1, 0] 
+ sellers_action: [0.3742692518219106, 0.7574548952501007] 
+ buyers_type: [0.8, 0.9] 
+ buyers_action: [0.70212139734639822, 0.41232369209255904] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.2, 0.3] 
+ sellers_action: [0.3279709805412506, 0.5804929269564111] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.6963537395742947, 0.6535854593565888]
+[32;1m=========count:100===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.5159071578067468] 
+ buyers_type: [0.8, 0.7, 1, 0.9] 
+ buyers_action: [0.76685767398755755, 0.6804122003729407, 0.67684600116439186, 0.63573049725194752] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.09884701841858401, 0.48003276320540966, 0.7915226800455154] 
+ buyers_type: [] 
+ buyers_action: []
+[32;1m=========count:110===========[0m
+
+ [31;1m total_number of choosing market1: 6 [0m
+ sellers_type: [0, 0.1, 0.3, 0.2] 
+ sellers_action: [0.021213854988709868, 0.20791991904479445, 0.3182888261544163, 0.49970416414281776] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.60493056022087388, 0.48465452326812503] 
+ [31;1m total_number of choosing market2: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.8, 0.9] 
+ buyers_action: [0.7014360289283699, 0.5215870077751833]
+[32;1m=========count:120===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.73177696260878544, 0.64158785038521216, 0.52231901849958262] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.2, 0.1, 0.3] 
+ sellers_action: [0.16084860081102892, 0.31826213195915476, 0.46591575101666566, 0.6198669726172157] 
+ buyers_type: [0.9] 
+ buyers_action: [0.5482247121068076]
+[32;1m=========count:130===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.2, 0.3] 
+ sellers_action: [0.38873873656540997, 0.39160158737743556] 
+ buyers_type: [0.9] 
+ buyers_action: [0.56590940187550087] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.1] 
+ sellers_action: [0.2785034001302935, 0.5652849217004521] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.731085837577963, 0.7147641928072703, 0.6906832827112777]
+[32;1m=========count:140===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.320102099617695] 
+ buyers_type: [0.8, 1] 
+ buyers_action: [0.78174264486236567, 0.53559653011351904] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.1, 0.3] 
+ sellers_action: [0.15486459303448608, 0.33614076206348087, 0.5982622571321371] 
+ buyers_type: [0.9, 0.7] 
+ buyers_action: [0.7402427661685772, 0.46435113665028965]
+[32;1m=========count:150===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.2, 0.3] 
+ sellers_action: [0.27524594588306783, 0.393759705842982] 
+ buyers_type: [] 
+ buyers_action: [] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.1, 0] 
+ sellers_action: [0.33290425089225384, 0.5004275607481111] 
+ buyers_type: [0.7, 0.8, 0.9, 1] 
+ buyers_action: [0.6793032472486171, 0.6656502983976429, 0.6377318167721597, 0.6347131717514497]
+[32;1m=========count:160===========[0m
+
+ [31;1m total_number of choosing market1: 6 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.28823091097703285, 0.32078298163467556, 0.49010629232831526] 
+ buyers_type: [1, 0.7, 0.8] 
+ buyers_action: [0.9020658598165322, 0.69413187214035788, 0.60052645757405165] 
+ [31;1m total_number of choosing market2: 2 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.6897280412316092] 
+ buyers_type: [0.9] 
+ buyers_action: [0.6650107595465533]
+[32;1m=========count:170===========[0m
+
+ [31;1m total_number of choosing market1: 1 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.8] 
+ buyers_action: [0.33672353993404019] 
+ [31;1m total_number of choosing market2: 7 [0m
+ sellers_type: [0, 0.1, 0.2, 0.3] 
+ sellers_action: [0.1605905023093192, 0.263937064525224, 0.2933770905428748, 0.6647238300575407] 
+ buyers_type: [1, 0.7, 0.9] 
+ buyers_action: [0.9781013079279154, 0.6943346361778007, 0.4769228255795]
+[32;1m=========count:180===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.37619509828609576, 0.39406641917943386] 
+ buyers_type: [0.8, 0.9, 0.7] 
+ buyers_action: [0.76557900606831275, 0.74261224418731375, 0.61741789760964738] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.2, 0] 
+ sellers_action: [0.32515546705871134, 0.9030175888738963] 
+ buyers_type: [1] 
+ buyers_action: [0.8204879189214095]
+[32;1m=========count:190===========[0m
+
+ [31;1m total_number of choosing market1: 6 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.3205405353318858, 0.32442239508138015, 0.3767718944859445] 
+ buyers_type: [0.9, 0.7, 0.8] 
+ buyers_action: [0.66308120760351075, 0.645972797789091, 0.58805854656249534] 
+ [31;1m total_number of choosing market2: 2 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.3793664975253044] 
+ buyers_type: [1] 
+ buyers_action: [0.9586764223087793]
+[32;1m=========count:200===========[0m
+
+ [31;1m total_number of choosing market1: 1 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.3481735608073483] 
+ buyers_type: [] 
+ buyers_action: [] 
+ [31;1m total_number of choosing market2: 7 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.41762004911817724, 0.640744581118522, 0.6962097437937941] 
+ buyers_type: [0.9, 0.8, 0.7, 1] 
+ buyers_action: [0.7198182682577494, 0.6450585211013069, 0.5482323544291, 0.4771048209659245]
+[32;1m=========count:210===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.6247989271064937] 
+ buyers_type: [1] 
+ buyers_action: [0.76689595301440949] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.3, 0.1, 0] 
+ sellers_action: [0.355229846924942, 0.37225672852468994, 0.5761958082727076] 
+ buyers_type: [0.9, 0.8, 0.7] 
+ buyers_action: [0.6905834572113367, 0.6145076757136176, 0.5639239906635948]
+[32;1m=========count:220===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.22746993339039007, 0.2863789705861207] 
+ buyers_type: [0.8, 1, 0.9] 
+ buyers_action: [0.79067692672769518, 0.56324472218618227, 0.20135583307287375] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.16058629536907137, 0.49308354353716144] 
+ buyers_type: [0.7] 
+ buyers_action: [0.630612683239635]
+[32;1m=========count:230===========[0m
+
+ [31;1m total_number of choosing market1: 7 [0m
+ sellers_type: [0, 0.1, 0.3, 0.2] 
+ sellers_action: [0.16959358157088933, 0.33126535851309835, 0.35639960397417036, 0.3897519516689173] 
+ buyers_type: [0.9, 0.8, 0.7] 
+ buyers_action: [0.75999865043396264, 0.6741157802356248, 0.51518552356913661] 
+ [31;1m total_number of choosing market2: 1 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1] 
+ buyers_action: [0.5709470518592805]
+[32;1m=========count:240===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.0575591892107169, 0.3940801270123949] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.98223492010271996, 0.83108064738409748] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.21981014266029963, 0.5255232774637152] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.6385639662943495, 0.5216232847936665]
+[32;1m=========count:250===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.3] 
+ sellers_action: [0.3531189929080394] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.66616077535065843, 0.5404913361506517] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.2, 0.1] 
+ sellers_action: [0.327017628804438, 0.4248109726528939, 0.4307695495544294] 
+ buyers_type: [0.9, 1] 
+ buyers_action: [0.746531290209366, 0.622209060023315]
+[32;1m=========count:260===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.314857975504774] 
+ buyers_type: [0.8] 
+ buyers_action: [0.57604035001551557] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.2, 0, 0.3] 
+ sellers_action: [0.23933497421208863, 0.6312740404147469, 0.6757292277519468] 
+ buyers_type: [1, 0.9, 0.7] 
+ buyers_action: [0.832625043827369, 0.7921281108518425, 0.5833534524467987]
+[32;1m=========count:270===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.3] 
+ sellers_action: [0.32254009610139417] 
+ buyers_type: [0.9] 
+ buyers_action: [0.84736080317054685] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.2, 0.1, 0] 
+ sellers_action: [0.3914665085390204, 0.46157556632625385, 0.6134789799720766] 
+ buyers_type: [0.7, 0.8, 1] 
+ buyers_action: [0.5939005412735981, 0.5639182668807955, 0.5307479327237415]
+[32;1m=========count:280===========[0m
+
+ [31;1m total_number of choosing market1: 1 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1] 
+ buyers_action: [0.54893793736300467] 
+ [31;1m total_number of choosing market2: 7 [0m
+ sellers_type: [0.1, 0.2, 0, 0.3] 
+ sellers_action: [0.1253716246090401, 0.2729083912318552, 0.4838998175465991, 0.564789473321418] 
+ buyers_type: [0.8, 0.7, 0.9] 
+ buyers_action: [0.7779839825664014, 0.6485758737154796, 0.6449904300423834]
+[32;1m=========count:290===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.9, 1, 0.8] 
+ buyers_action: [0.86538467672483477, 0.80982451583410819, 0.71721918348081148] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.1, 0.2, 0, 0.3] 
+ sellers_action: [0.1542810353127425, 0.29427553147047303, 0.3100319498540771, 0.3664392133404922] 
+ buyers_type: [0.7] 
+ buyers_action: [0.6993358040587376]
+[32;1m=========count:300===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.3676065986884904] 
+ buyers_type: [0.8, 0.9, 1] 
+ buyers_action: [0.58483508031681286, 0.55309864566698896, 0.44205757097034853] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0, 0.2, 0.3] 
+ sellers_action: [0.24046832327949497, 0.2434632339692772, 0.6725919347398331] 
+ buyers_type: [0.7] 
+ buyers_action: [0.014022622606316204]
+[32;1m=========count:310===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.2652498783185491, 0.38738152455373087] 
+ buyers_type: [0.9, 0.8, 0.7] 
+ buyers_action: [0.78203087535189697, 0.68243694150702083, 0.53439367312339059] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.2, 0.1] 
+ sellers_action: [0.36509129459635997, 0.37695191964049174] 
+ buyers_type: [1] 
+ buyers_action: [0.7643397476461671]
+[32;1m=========count:320===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.5162617360791115] 
+ buyers_type: [0.7, 1] 
+ buyers_action: [0.65314343362628846, 0.13366551032731322] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.1, 0.3] 
+ sellers_action: [0.17010660283193435, 0.2690699175196901, 0.5416973403504828] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.8686004225943189, 0.6262374565716673]
+[32;1m=========count:330===========[0m
+
+ [31;1m total_number of choosing market1: 7 [0m
+ sellers_type: [0.1, 0.3, 0.2] 
+ sellers_action: [0.33370000363274743, 0.3650797282362009, 0.39545802913031314] 
+ buyers_type: [1, 0.7, 0.8, 0.9] 
+ buyers_action: [0.76319816863062362, 0.68269755331925885, 0.66538393143327934, 0.62558445406946661] 
+ [31;1m total_number of choosing market2: 1 [0m
+ sellers_type: [0] 
+ sellers_action: [0.30696124454731455] 
+ buyers_type: [] 
+ buyers_action: []
+[32;1m=========count:340===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.16332345572649298] 
+ buyers_type: [1, 0.7, 0.8] 
+ buyers_action: [0.95296205102444942, 0.67564958025634314, 0.54890937852541244] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.2, 0, 0.3] 
+ sellers_action: [0.22663919347320066, 0.39715941744415545, 0.9474022621782557] 
+ buyers_type: [0.9] 
+ buyers_action: [0.5351571455468878]
+[32;1m=========count:350===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.1, 0.2] 
+ sellers_action: [0.17483508793646174, 0.35307052714649967] 
+ buyers_type: [0.7] 
+ buyers_action: [0.57846707213961635] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.07156818518640928, 0.3828254032511958] 
+ buyers_type: [1, 0.9, 0.8] 
+ buyers_action: [0.842087099452578, 0.5860320538127587, 0.580316405446512]
+[32;1m=========count:360===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.1, 0.2] 
+ sellers_action: [0.2122685998362146, 0.5223807133275576] 
+ buyers_type: [0.9, 1, 0.7] 
+ buyers_action: [0.85551483792320415, 0.75496065274387902, 0.69997753171521948] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.2744488613625298, 0.6437849298646939] 
+ buyers_type: [0.8] 
+ buyers_action: [0.18369565974179758]
+[32;1m=========count:370===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1, 0.8, 0.9] 
+ buyers_action: [0.90041174589118722, 0.76179328157274162, 0.63597160901328742] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.1, 0.2, 0.3] 
+ sellers_action: [0.03405508007997693, 0.1731758864196411, 0.2737459995851938, 0.6079849728715968] 
+ buyers_type: [0.7] 
+ buyers_action: [0.6605086905373844]
+[32;1m=========count:380===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.2, 0.3, 0.1, 0] 
+ sellers_action: [0.2519094305384507, 0.3647390677939945, 0.40245625391501044, 0.9643334093693341] 
+ buyers_type: [0.9] 
+ buyers_action: [0.87785809900674461] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.9544087519546538, 0.7287281799960192, 0.6566285814962102]
+[32;1m=========count:390===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.9, 1] 
+ buyers_action: [0.85978839004008745, 0.72378710785301914] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.1, 0.2, 0, 0.3] 
+ sellers_action: [0.3490593248773084, 0.3645749808243001, 0.550099976212733, 0.6497093391265507] 
+ buyers_type: [0.8, 0.7] 
+ buyers_action: [0.6721633670718138, 0.6229743233429333]
+[32;1m=========count:400===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.77062414499545473, 0.56403718879373244] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.1, 0.2, 0, 0.3] 
+ sellers_action: [0.24475444552460637, 0.46733812967773475, 0.4901043083739128, 0.6396396883708506] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.629756359803127, 0.575386144854018]
+[32;1m=========count:410===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.9414763736774857] 
+ buyers_type: [0.8, 1] 
+ buyers_action: [0.6211264927673471, 0.59817414497713994] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.2, 0.3, 0] 
+ sellers_action: [0.2797931414746343, 0.41998925049085184, 0.5589875362005613] 
+ buyers_type: [0.9, 0.7] 
+ buyers_action: [0.5754596954198977, 0.5259095849014702]
+[32;1m=========count:420===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.1, 0.2] 
+ sellers_action: [0.4017426398088908, 0.5371769428845011] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.77108365878219765, 0.66362009237725283] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.10553819504767825, 0.5736515417942315] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.7799096865650191, 0.5988474634872065]
+[32;1m=========count:430===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.81591670922900161, 0.42249436672478835] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.1, 0.2, 0, 0.3] 
+ sellers_action: [0.22162345671961747, 0.24263268452510398, 0.675975216730043, 0.7175348319558125] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.5385911761506869, 0.3551229682448735]
+[32;1m=========count:440===========[0m
+
+ [31;1m total_number of choosing market1: 1 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.8] 
+ buyers_action: [0.62089215551182886] 
+ [31;1m total_number of choosing market2: 7 [0m
+ sellers_type: [0.1, 0.2, 0.3, 0] 
+ sellers_action: [0.1513149821827463, 0.31818657782174264, 0.319462853669084, 0.5394946551201802] 
+ buyers_type: [0.9, 0.7, 1] 
+ buyers_action: [0.7946709299742868, 0.6116678438425132, 0.6104768174751204]
+[32;1m=========count:450===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.3, 0.2, 0, 0.1] 
+ sellers_action: [0.3182517762166916, 0.3660335605882981, 0.7729714334107305, 0.9573143702629847] 
+ buyers_type: [1] 
+ buyers_action: [0.20302951292447552] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.8, 0.7, 0.9] 
+ buyers_action: [0.6706642127039477, 0.606468692309223, 0.07235954495272534]
+[32;1m=========count:460===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.3] 
+ sellers_action: [0.31633781866237726] 
+ buyers_type: [0.9] 
+ buyers_action: [0.58638891549257566] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0, 0.2, 0.1] 
+ sellers_action: [0.24077127242217256, 0.41115362625537666, 0.8526885385259271] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.892094339752574, 0.6168291453401288, 0.5800100211216846]
+[32;1m=========count:470===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.12723660205494453] 
+ buyers_type: [0.8] 
+ buyers_action: [0.73928482086249747] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0, 0.2, 0.3] 
+ sellers_action: [0.31779295241105904, 0.40116090830107337, 0.6328138054746648] 
+ buyers_type: [0.9, 1, 0.7] 
+ buyers_action: [0.8892770552002611, 0.8202880347644419, 0.5891552545240154]
+[32;1m=========count:480===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.1, 0.2, 0] 
+ sellers_action: [0.14698669801201603, 0.31037496222738187, 0.525194174603658] 
+ buyers_type: [0.8, 0.9] 
+ buyers_action: [0.70214528295229872, 0.55648707806145925] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.3] 
+ sellers_action: [0.49687665455853586] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.5941524734879353, 0.5928652643077225]
+[32;1m=========count:490===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.1, 0.2, 0] 
+ sellers_action: [0.29618343197218483, 0.4490215840813192, 0.4519733205559087] 
+ buyers_type: [0.7] 
+ buyers_action: [0.5207225177174567] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.3] 
+ sellers_action: [0.6294203951321812] 
+ buyers_type: [0.9, 0.8, 1] 
+ buyers_action: [0.801495091383509, 0.6548271987363652, 0.6396129642166035]
+[32;1m=========count:500===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0, 0.2, 0.3, 0.1] 
+ sellers_action: [0.10242468740056498, 0.2666585614524684, 0.37002592930733336, 0.46236243760079837] 
+ buyers_type: [0.9] 
+ buyers_action: [0.50728487995839522] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1, 0.7, 0.8] 
+ buyers_action: [0.7803456517052303, 0.626667924218257, 0.5438325321191625]
+[32;1m=========count:510===========[0m
+
+ [31;1m total_number of choosing market1: 6 [0m
+ sellers_type: [0, 0.2, 0.3] 
+ sellers_action: [0.01873013381463251, 0.6933768387696082, 0.8333050628829306] 
+ buyers_type: [0.8, 1, 0.7] 
+ buyers_action: [0.70696595153846598, 0.65758531581634327, 0.64686661123252132] 
+ [31;1m total_number of choosing market2: 2 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.22650740561561622] 
+ buyers_type: [0.9] 
+ buyers_action: [0.8368789342765337]
+[32;1m=========count:520===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.8, 0.7] 
+ buyers_action: [0.60139648488033015, 0.51672356604610215] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.2, 0, 0.3, 0.1] 
+ sellers_action: [0.22253075308806264, 0.23111196286453883, 0.3219234126712584, 0.6636952212894571] 
+ buyers_type: [0.9, 1] 
+ buyers_action: [0.667130150179291, 0.6351377709033755]
+[32;1m=========count:530===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.1, 0.2] 
+ sellers_action: [0.29804372758566516, 0.4653854793204114] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.74407868562729218, 0.68322875475786116] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.02134347892196209, 0.6977806264702079] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.6512280484860153, 0.6254941090315866]
+[32;1m=========count:540===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.3, 0.1] 
+ sellers_action: [0.32430748369388973, 0.3515379513698675] 
+ buyers_type: [0.9] 
+ buyers_action: [0.42450162415886855] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.2690184700323987, 0.30816628720329714] 
+ buyers_type: [1, 0.7, 0.8] 
+ buyers_action: [0.9074306726639975, 0.695516760378387, 0.5679247130450071]
+[32;1m=========count:550===========[0m
+
+ [31;1m total_number of choosing market1: 6 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.1351303695134879, 0.39537379346940704] 
+ buyers_type: [0.9, 0.7, 0.8, 1] 
+ buyers_action: [0.77600169817324205, 0.67101939883730766, 0.63803666446877616, 0.58260483439341926] 
+ [31;1m total_number of choosing market2: 2 [0m
+ sellers_type: [0.1, 0.2] 
+ sellers_action: [0.18255117881257216, 0.40640351249272316] 
+ buyers_type: [] 
+ buyers_action: []
+[32;1m=========count:560===========[0m
+
+ [31;1m total_number of choosing market1: 7 [0m
+ sellers_type: [0.3, 0, 0.2] 
+ sellers_action: [0.3091296919291423, 0.4303631713341721, 0.5322329687072848] 
+ buyers_type: [1, 0.7, 0.8, 0.9] 
+ buyers_action: [0.75994417356172439, 0.69663367298902679, 0.55907498913973186, 0.29054012908187471] 
+ [31;1m total_number of choosing market2: 1 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.3533492748702531] 
+ buyers_type: [] 
+ buyers_action: []
+[32;1m=========count:570===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.3] 
+ sellers_action: [0.5463558547493987] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.61928641173864551, 0.56650978507737926] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.2, 0.1] 
+ sellers_action: [0.007186871843397724, 0.22491623767295232, 0.41325671066401354] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.8964289749189824, 0.7962236068564394]
+[32;1m=========count:580===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.2, 0.1] 
+ sellers_action: [0.3684528705305379, 0.5274723435134628] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.89929892092154917, 0.69949408188997197, 0.55990137454374533] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.4631921304427793, 0.4824799712236728] 
+ buyers_type: [0.9] 
+ buyers_action: [0.3551284644623021]
+[32;1m=========count:590===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.2, 0.3] 
+ sellers_action: [0.22013972667140552, 0.3179338124086723] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.86507685652235156, 0.78418934214380887] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0, 0.1] 
+ sellers_action: [0.31038713991403605, 0.37250137941914924] 
+ buyers_type: [0.7, 1] 
+ buyers_action: [0.5223930065851357, 0.18477873197178807]
+[32;1m=========count:0===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.2347245932928318, 0.3199313636637885, 0.898431682679115] 
+ buyers_type: [1] 
+ buyers_action: [0.97421308570708331] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.14598734326352558] 
+ buyers_type: [0.9, 0.7, 0.8] 
+ buyers_action: [0.6652563999741039, 0.5386790772724533, 0.49038684364027735]
+[32;1m=========count:10===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.3] 
+ sellers_action: [0.3133140660169758] 
+ buyers_type: [0.9, 1, 0.8] 
+ buyers_action: [0.79811936761997582, 0.79675477007161355, 0.68042324276801647] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.2, 0.1, 0] 
+ sellers_action: [0.3524039046035597, 0.5042848808176942, 0.7862883064837614] 
+ buyers_type: [0.7] 
+ buyers_action: [0.6437275927724619]
+[32;1m=========count:20===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.1, 0.2] 
+ sellers_action: [0.18842877726292545, 0.2296100478358366] 
+ buyers_type: [] 
+ buyers_action: [] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.34481633161942515, 0.49299846255995156] 
+ buyers_type: [0.8, 0.7, 1, 0.9] 
+ buyers_action: [0.7879828231157098, 0.6508931953159656, 0.5787560337439979, 0.3179347406048373]
+[32;1m=========count:30===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0, 0.1, 0.3] 
+ sellers_action: [0.10902269768739853, 0.34570301139674675, 0.34908555055454066] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.54139691084050845, 0.03899131457677385] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.3379704279004323] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.998892440765728, 0.753381426318731]
+[32;1m=========count:40===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0] 
+ sellers_action: [0.4719467206422536] 
+ buyers_type: [0.7] 
+ buyers_action: [0.3702233351314056] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.2, 0.1, 0.3] 
+ sellers_action: [0.2747459414744532, 0.38758767194368776, 0.5576057443845532] 
+ buyers_type: [1, 0.9, 0.8] 
+ buyers_action: [0.832371559195821, 0.6991304289296285, 0.5202226263656475]
+[32;1m=========count:50===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.1, 0.2] 
+ sellers_action: [0.18106888387738507, 0.545989668059377] 
+ buyers_type: [] 
+ buyers_action: [] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0, 0.3] 
+ sellers_action: [0.4460525532477041, 0.7507442320284279] 
+ buyers_type: [0.8, 1, 0.7, 0.9] 
+ buyers_action: [0.7572969435510557, 0.7264977721643684, 0.6714016885451647, 0.6018227208471254]
+[32;1m=========count:60===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.1224969437054157, 0.3113035046373344] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.69893032951768708, 0.53509211301660897] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.1585545648657174, 0.25102685951601494] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.8489060170327781, 0.5589371785439227]
+[32;1m=========count:70===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.15003274723517368, 0.3580700358809578] 
+ buyers_type: [0.8] 
+ buyers_action: [0.62525608079303607] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.3203552907426056, 0.38796210377273765] 
+ buyers_type: [0.7, 1, 0.9] 
+ buyers_action: [0.5691000166284498, 0.5588263661301045, 0.39680322580899835]
+[32;1m=========count:0===========[0m
+
+ [31;1m total_number of choosing market1: 1 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.9] 
+ buyers_action: [0.89735794051753937] 
+ [31;1m total_number of choosing market2: 7 [0m
+ sellers_type: [0.2, 0, 0.1, 0.3] 
+ sellers_action: [0.24175293709900494, 0.2899498432531926, 0.45553325954723867, 0.4891889373136237] 
+ buyers_type: [1, 0.7, 0.8] 
+ buyers_action: [0.9248188356359689, 0.5454791281339296, 0.44848961896829537]
+[32;1m=========count:10===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.1, 0.3] 
+ sellers_action: [0.19006089628454254, 0.42647401100171717] 
+ buyers_type: [0.7] 
+ buyers_action: [0.52374213457617591] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.2, 0] 
+ sellers_action: [0.25085129985022137, 0.43236137812566217] 
+ buyers_type: [0.8, 1, 0.9] 
+ buyers_action: [0.7422936827912303, 0.6772971144880529, 0.6340949328599352]
+[32;1m=========count:20===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.3858219810288143] 
+ buyers_type: [0.8, 0.9] 
+ buyers_action: [0.59995663425428047, 0.55049996737773577] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.01364023424814742, 0.36410448389232297, 0.8113689071583046] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.8422002319124104, 0.5096687053412077]
+[32;1m=========count:30===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0.3, 0.1] 
+ sellers_action: [0.3644008335704652, 0.409619967416183] 
+ buyers_type: [1, 0.9] 
+ buyers_action: [0.65907717035262436, 0.59158132740013625] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0, 0.2] 
+ sellers_action: [0.43970194924228795, 0.45186873407532757] 
+ buyers_type: [0.7, 0.8] 
+ buyers_action: [0.6901257607970261, 0.5182196739417011]
+[32;1m=========count:40===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.4625157726296528] 
+ buyers_type: [1] 
+ buyers_action: [0.8750308955688868] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.1, 0, 0.3] 
+ sellers_action: [0.2165500952450004, 0.41668029271945345, 0.46408538885183925] 
+ buyers_type: [0.8, 0.7, 0.9] 
+ buyers_action: [0.7467396918852798, 0.691601571742952, 0.14327767752923282]
+[32;1m=========count:50===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0] 
+ sellers_action: [0.3735201303879403] 
+ buyers_type: [0.8, 0.7] 
+ buyers_action: [0.74359540400804747, 0.57003263075917654] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.2, 0.1, 0.3] 
+ sellers_action: [0.30669882015670813, 0.35347925466541613, 0.46950096595821816] 
+ buyers_type: [0.9, 1] 
+ buyers_action: [0.6758329035116611, 0.4178522930266481]
+[32;1m=========count:60===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0] 
+ sellers_action: [0.02801153277287788] 
+ buyers_type: [0.8, 0.7, 1, 0.9] 
+ buyers_action: [0.79344561998126695, 0.65771744893950168, 0.44574048625372431, 0.39427379821998904] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0.1, 0.2, 0.3] 
+ sellers_action: [0.22529197209376964, 0.3476690293748589, 0.5366191035249137] 
+ buyers_type: [] 
+ buyers_action: []
+[32;1m=========count:70===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.3, 0.2] 
+ sellers_action: [0.3811376151541552, 0.38127785177562934] 
+ buyers_type: [1] 
+ buyers_action: [0.43720652077980698] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.1] 
+ sellers_action: [0.2955867514217644, 0.39259553527101365] 
+ buyers_type: [0.8, 0.7, 0.9] 
+ buyers_action: [0.7398934954566406, 0.5714029447576754, 0.08650989662052022]
+[32;1m=========count:80===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.8, 1] 
+ buyers_action: [0.62128893813895159, 0.50863980353634153] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0, 0.2, 0.1, 0.3] 
+ sellers_action: [0.03292639749404125, 0.22748033877513393, 0.41631182614774925, 0.6318184256847134] 
+ buyers_type: [0.9, 0.7] 
+ buyers_action: [0.704246535267442, 0.5193507729108312]
+[32;1m=========count:90===========[0m
+
+ [31;1m total_number of choosing market1: 4 [0m
+ sellers_type: [0, 0.1] 
+ sellers_action: [0.2576832167924596, 0.38007279160225244] 
+ buyers_type: [0.9, 0.8] 
+ buyers_action: [0.41168947793231569, 0.33319574580848099] 
+ [31;1m total_number of choosing market2: 4 [0m
+ sellers_type: [0.2, 0.3] 
+ sellers_action: [0.3280593572161994, 0.5756615351035312] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.6915207614931138, 0.6535415467792194]
+[32;1m=========count:100===========[0m
+
+ [31;1m total_number of choosing market1: 5 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.14741869813391267] 
+ buyers_type: [0.8, 0.7, 1, 0.9] 
+ buyers_action: [0.76489373826707741, 0.67915590849236585, 0.66974246991354769, 0.18322697907803281] 
+ [31;1m total_number of choosing market2: 3 [0m
+ sellers_type: [0, 0.2, 0.3] 
+ sellers_action: [0.1000082313954539, 0.35980709918321896, 0.47472746800166976] 
+ buyers_type: [] 
+ buyers_action: []
+[32;1m=========count:110===========[0m
+
+ [31;1m total_number of choosing market1: 6 [0m
+ sellers_type: [0, 0.1, 0.3, 0.2] 
+ sellers_action: [0.021179124345854505, 0.20782761834360586, 0.3179713041702821, 0.4939440626052627] 
+ buyers_type: [1, 0.7] 
+ buyers_action: [0.59182621188867146, 0.48519496558846847] 
+ [31;1m total_number of choosing market2: 2 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [0.8, 0.9] 
+ buyers_action: [0.7015896935137242, 0.5257489358287927]
+[32;1m=========count:120===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [] 
+ sellers_action: [] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.73178116911417412, 0.64131855537960913, 0.52256430688675526] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.2, 0.1, 0.3] 
+ sellers_action: [0.16082066521618943, 0.3184537883523659, 0.4658582848965294, 0.6197541776693135] 
+ buyers_type: [0.9] 
+ buyers_action: [0.5479511985711122]
+[32;1m=========count:130===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.3, 0.2] 
+ sellers_action: [0.3776482127402556, 0.3913629520345192] 
+ buyers_type: [0.9] 
+ buyers_action: [0.13713016981646592] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0.1, 0] 
+ sellers_action: [0.16261504459998188, 0.27700988657115216] 
+ buyers_type: [1, 0.8, 0.7] 
+ buyers_action: [0.72041479488096, 0.7108002062156682, 0.6908870380636436]
+[32;1m=========count:140===========[0m
+
+ [31;1m total_number of choosing market1: 3 [0m
+ sellers_type: [0.2] 
+ sellers_action: [0.3196475737773926] 
+ buyers_type: [0.8, 1] 
+ buyers_action: [0.78312097382837864, 0.50379957003516807] 
+ [31;1m total_number of choosing market2: 5 [0m
+ sellers_type: [0, 0.1, 0.3] 
+ sellers_action: [0.15472829100387042, 0.3404998714425111, 0.6066844515104222] 
+ buyers_type: [0.9, 0.7] 
+ buyers_action: [0.7404738506963314, 0.6844209600864095]
+[32;1m=========count:150===========[0m
+
+ [31;1m total_number of choosing market1: 2 [0m
+ sellers_type: [0.2, 0.3] 
+ sellers_action: [0.2751853055424501, 0.3944095387146071] 
+ buyers_type: [] 
+ buyers_action: [] 
+ [31;1m total_number of choosing market2: 6 [0m
+ sellers_type: [0.1, 0] 
+ sellers_action: [0.3327584494110869, 0.5015722779662795] 
+ buyers_type: [0.7, 0.8, 0.9, 1] 
+ buyers_action: [0.6792880352997478, 0.6652182333634036, 0.6382437087068025, 0.1392550200871041]
+[32;1m=========count:160===========[0m
+
+ [31;1m total_number of choosing market1: 6 [0m
+ sellers_type: [0, 0.3, 0.2] 
+ sellers_action: [0.28900605399001533, 0.32076573306760764, 0.4901294152937023] 
+ buyers_type: [1, 0.7, 0.8] 
+ buyers_action: [0.90222196722124492, 0.69412413700595876, 0.61695238281538134] 
+ [31;1m total_number of choosing market2: 2 [0m
+ sellers_type: [0.1] 
+ sellers_action: [0.25466180009779615] 
+ buyers_type: [0.9] 
+ buyers_action: [0.6662584575971561]
